@@ -1,0 +1,14 @@
+sqoop import --connect jdbc:mysql://sqoop2.ci5gdjtt9ynp.us-west-1.rds.amazonaws.com:3306/point_of_sale \
+--username karthik \
+--password test1234 \
+--target-dir /staging/denormalized_point_of_sale \
+--query 'select ItemSold.Transaction_ID, ItemSold.Quantity, Product.Name, Product.Price from ItemSold 
+inner join Product on ItemSold.Product_ID = Product.Product_ID where $CONDITIONS' \
+--split-by Transaction_ID
+
+
+---------------------
+Output
+---------------------
+
+

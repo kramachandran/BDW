@@ -1,0 +1,25 @@
+$ sqoop import \
+--connect jdbc:mysql://sqoop2.ci5gdjtt9ynp.us-west-1.rds.amazonaws.com:3306/point_of_sale \
+--username karthik \
+--password test1234 \
+--table Employee \
+-–hive-import
+
+$ sqoop import-all-tables \
+--connect jdbc:mysql://sqoop2.ci5gdjtt9ynp.us-west-1.rds.amazonaws.com:3306/point_of_sale \
+--username karthik \
+--password test1234 \
+
+
+$sqoop import \
+--connect jdbc:mysql://sqoop2.ci5gdjtt9ynp.us-west-1.rds.amazonaws.com:3306/point_of_sale \
+--username karthik \
+--password test1234 \
+--table Employee \
+--target-dir /temp/employee_table \
+--hive-import \
+--hive-database pos
+
+
+$sqoop import --connect jdbc:mysql://example.rds.amazonaws.com:3306/point_of_sale --username karthik --password test1234 -–hive-import -–hive-database pos	--table Employee --target-dir /staging/employee_table --as-parquet
+

@@ -1,0 +1,8 @@
+sqoop import \
+--connect jdbc:mysql://sqoop2.ci5gdjtt9ynp.us-west-1.rds.amazonaws.com:3306/point_of_sale \
+--username karthik \
+--password test1234 \
+--target-dir /staging/Employee_as_parquet \
+--table Employee \
+--as-parquetfile
+

@@ -1,0 +1,72 @@
+1,Espresso,Drink,2.25
+2,Espresso Double,Drink,2.2
+3,Espresso Triple,Drink,2.85
+4,Macchiato,Drink,2.75
+5,Macchiato Double,Drink,3
+6,Macchiato Triple,Drink,3.35
+7,Americano Small,Drink,2.65
+8,Americano Large,Drink,3.1
+9,Cortado Small,Drink,3.25
+10,Classic Cappuccino,Drink,3.25
+11,Cappuccino Small,Drink,3.5
+12,Cappuccino Large,Drink,4.25
+13,Latte Small,Drink,3.5
+14,Latte Large,Drink,4.25
+15,Mocha Small,Drink,3.9
+16,Mocha Large,Drink,4.5
+17,Caramel Latte Small,Drink,3.5
+18,Caramel Latte Large,Drink,4.25
+19,Vanilla Latte Small,Drink,3.5
+20,Vanilla Latte Large ,Drink,4.25
+21,Drip Coffee Small,Drink,2
+22,Drip Coffee Large,Drink,2.3
+23,Café au lait Small,Drink,3
+24,Café au lait Large,Drink,3.25
+25,French Press Small,Drink,3
+26,French Press Large,Drink,4.25
+27,Masala Chai Latte Small,Drink,3.9
+28,Masala Chai Latte Large,Drink,4.5
+29,Hot Tea Black Small,Drink,2
+30,Hot Tea Black Large,Drink,2.75
+31,Hot Tea Green Small,Drink,2
+32,Hot Tea Green Large ,Drink,2.75
+33,Hot Tea Herbal Small,Drink,2
+34,Hot Tea Herbal Large,Drink,2.75
+35,Hot Tea Oolong Small,Drink,2
+36,Hot Tea Oolong Large,Drink,2.75
+37,Iced Tea Black Small,Drink,2
+38,Iced Tea Black Large,Drink,2.75
+39,Iced Tea Green Small,Drink,2
+40,Iced Tea Green Large ,Drink,2.75
+41,Iced Tea Herbal Small,Drink,2
+42,Iced Tea Herbal Large,Drink,2.75
+43,Iced Tea Oolong Small,Drink,2
+44,Iced Tea Oolong Large,Drink,2.75
+45,Hot Chocolate Small,Drink,3.5
+46,Hot Chocolate Large ,Drink,4
+47,Bluberry Muffin,Food,2.75
+48,Apple Walnut Muffin,Food,2.75
+49,Bran Muffin,Food,2.75
+50,Carrot Muffin,Food,2.75
+51,Corn Muffin,Food,2.75
+52,Chocolate Muffin,Food,2.75
+53,Cinnamon Scone,Food,2.5
+54,Maple Walnut Scone,Food,2.5
+55,Chocolate Chip Brownie,Food,3
+56,Rice Crispy Treat,Food,3
+57,Red Velvet Cupcake,Food,3
+58,Cinnamon Roll,Food,3
+59,Pecan Roll,Food,3
+60,Pound Cake,Food,2.5
+61,Turkey club,Food,5
+62,Grilled Chick Avacdo,Food,5.25
+63,Ham and Cheese,Food,5.25
+64,BLT,Food,5.25
+65,Tueky and Swiss,Food ,5.35
+66,BBQ Chicken Wrap,Food,6.45
+67,Chicken Casear Wrap,Food,6.45
+68,Veggie & Hummus Wrap,Food,6.45
+69,Casear Salad,Food,6.45
+70,Southwest Chicken Salad,Food,7
+71,BBQ Chicken Salad,Food,7
+72,Salad Salad,Food,7
